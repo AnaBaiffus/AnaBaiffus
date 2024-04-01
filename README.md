@@ -1,4 +1,4 @@
-# Hello guys, my name is Ana Caroline Baiffus Borges
+# Hello guys, welcome to Ana Caroline Baiffus Borges github account
 
 
 - 🌱 Today I'm looking for a position in the Full Stack Developer area
