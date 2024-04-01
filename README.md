@@ -1,8 +1,5 @@
 # AnaBaiffus - Hello guys, my name is Ana Caroline Baiffus Borges
 
-<!--
-**AnaBaiffus/AnaBaiffus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🌱 Today I'm looking for a position in the Full Stack Developer area
 - 📓 Electrical Engineering student and focus on programming
